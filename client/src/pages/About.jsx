@@ -8,7 +8,7 @@ export default function About() {
           </h1>
           <div className='text-md text-gray-500 flex flex-col gap-6'>
             <p>
-              Welcome to Saksham's Blog! This blog was created by Saksham Ghavidel
+              Welcome to Saksham's Blog! This blog was created by Saksham Singla
               as a personal project to share his thoughts and ideas with the
               world. Saksham is a passionate developer who loves to write about
               technology, coding, and everything in between.
