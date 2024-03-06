@@ -18,7 +18,7 @@ export default function CallToAction() {
             </Button>
         </div>
         <div className="p-7 flex-1">
-            <img src={img} alt="JavaScript" />
+            <img src={img} alt="JavaScript" className='border-radius:25%'/>
         </div>
     </div>
   )
